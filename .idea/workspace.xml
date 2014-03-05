@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad3297fe-595f-4564-a5b2-625178d82d74" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/SpecRunner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/css/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/js/boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/js/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/js/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/js/jasmine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="jasmine_boilerplate.iws" />
@@ -51,7 +58,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="56" selection-start="789" selection-end="789" vertical-scroll-proportion="0.52307695">
+            <state line="4" column="1" selection-start="230" selection-end="230" vertical-scroll-proportion="0.13076924">
               <folding />
             </state>
           </provider>
@@ -156,6 +163,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmine_boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmine_boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -170,6 +195,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Toshiba\Documents\jasmine_boilerplate\public\test" />
+      <recent name="C:\Users\Toshiba\Documents\jasmine_boilerplate\public\test\css" />
+      <recent name="C:\Users\Toshiba\Documents\jasmine_boilerplate\public\test\js" />
       <recent name="C:\Users\Toshiba\Documents\jasmine_boilerplate" />
     </key>
   </component>
@@ -448,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="56" selection-start="789" selection-end="789" vertical-scroll-proportion="0.52307695">
+        <state line="4" column="1" selection-start="230" selection-end="230" vertical-scroll-proportion="0.13076924">
           <folding />
         </state>
       </provider>

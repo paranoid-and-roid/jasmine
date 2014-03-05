@@ -31,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="59" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.626">
+            <state line="26" column="47" selection-start="1196" selection-end="1196" vertical-scroll-proportion="-10.076923">
               <folding />
             </state>
           </provider>
@@ -60,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="43" selection-start="1030" selection-end="1030" vertical-scroll-proportion="-15.692307">
+            <state line="28" column="39" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.9278752">
               <folding />
             </state>
           </provider>
@@ -138,8 +138,8 @@
         <option value="$PROJECT_DIR$/public/test/js/jasmine.js" />
         <option value="$PROJECT_DIR$/public/test/js/ConverterSpec.js" />
         <option value="$PROJECT_DIR$/Converter.js" />
-        <option value="$PROJECT_DIR$/public/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/test/SpecRunner.html" />
       </list>
     </option>
   </component>
@@ -649,16 +649,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/test/SpecRunner.html">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="43" selection-start="1030" selection-end="1030" vertical-scroll-proportion="-15.692307">
+        <state line="26" column="47" selection-start="1196" selection-end="1196" vertical-scroll-proportion="-10.076923">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="59" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.626">
+        <state line="28" column="39" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.9278752">
           <folding />
         </state>
       </provider>

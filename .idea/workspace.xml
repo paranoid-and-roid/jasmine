@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad3297fe-595f-4564-a5b2-625178d82d74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Converter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/test/js/ConverterSpec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/test/SpecRunner.html" afterPath="$PROJECT_DIR$/public/test/SpecRunner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/test/js/jasmine.js" afterPath="$PROJECT_DIR$/public/test/js/jasmine.js" />
     </list>
     <ignored path="jasmine_boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="38" selection-start="132" selection-end="132" vertical-scroll-proportion="-0.65384614">
+            <state line="29" column="59" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.626">
               <folding />
             </state>
           </provider>
@@ -63,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="33" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.82846004">
+            <state line="24" column="43" selection-start="1030" selection-end="1030" vertical-scroll-proportion="-15.692307">
               <folding />
             </state>
           </provider>
@@ -136,13 +133,13 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/javascripts/application.js" />
         <option value="$PROJECT_DIR$/public/test/css/jasmine.css" />
         <option value="$PROJECT_DIR$/public/test/js/jasmine.js" />
         <option value="$PROJECT_DIR$/public/test/js/ConverterSpec.js" />
         <option value="$PROJECT_DIR$/Converter.js" />
         <option value="$PROJECT_DIR$/public/test/SpecRunner.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -620,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="132" selection-end="132" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/test/js/ConverterSpec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
@@ -661,7 +651,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="33" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.82846004">
+        <state line="24" column="43" selection-start="1030" selection-end="1030" vertical-scroll-proportion="-15.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="59" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.626">
           <folding />
         </state>
       </provider>

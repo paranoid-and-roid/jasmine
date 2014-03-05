@@ -1,18 +1,24 @@
-var Converter = (function () {
-    // private stuff goes here
+var Converter = (function() {
+
+    // Private stuff up here
+    var converterValue = 2.2;
 
 
+    // Public methods here
     return {
+        convertFromPoundsToKIlo: function(weight) {
+            var num = parseInt(weight);
 
-        convertFromImperialToMetric: function (weight) {
-
+            if (isNaN(num) == true) {
+                throw new Error ("Not a number");
+            }
+            num = num / converterValue;
+            return Math.round(num);
         },
 
-        convertFromMetricToImperial: function (weight) {
-
+        convertFromMetricToImperial: function(weight) {
+            return weight / converterValue;
         }
 
     }
-
-
-})();
+}())
